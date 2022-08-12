@@ -1,0 +1,1 @@
+npm start /all > "caminho da pasta"\log_bot.txt
